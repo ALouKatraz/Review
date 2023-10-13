@@ -1,0 +1,30 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+section{
+    width: 80vw;
+}
+section>div, article{
+    text-align: center;
+}
+#image_socle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    color: aqua;
+    margin: 0 auto;
+}
+#image{
+    height: 100%;
+    border-radius: 50%;
+}
+article{
+    height: 60vh;
+    background-color: antiquewhite;
+}
+button{
+    margin-top: 2%;
+}
