@@ -25,7 +25,9 @@ article{
     height: 60vh;
     background-color: antiquewhite;
     padding: 20px 20px 0px 20px;
+    box-shadow:10px 10px 15px -8px gray;
 }
+
 button{
     margin-top: 2%;
     cursor: pointer;
