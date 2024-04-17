@@ -24,7 +24,14 @@ section>div, article{
 article{
     height: 60vh;
     background-color: antiquewhite;
+    padding: 20px 20px 0px 20px;
 }
 button{
     margin-top: 2%;
+    cursor: pointer;
+    background-color: #808080;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 2%;
 }
